@@ -1,0 +1,12 @@
+.main-nav {
+  display: flex;
+  background: #fff;
+  position: sticky;
+  top: 0;
+}
+
+.showcase {
+  display: grid;
+  grid-template-columns: 1fr 8fr 1fr;
+  background: url("../img/pickwickgoedeavond2.jpg");
+}
